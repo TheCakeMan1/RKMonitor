@@ -47,5 +47,5 @@ RKMonitor — это легковесный мониторинг системы 
 ## 📜 Лицензия
 Проект распространяется под лицензией MIT – свободно используйте, модифицируйте и распространяйте.  
 👤 Автор: TheCakeMan1  
-📧 Контакт: lilo.lilo565@gmail.com
-google-site-verification: googlef1b500850f42a59e.html
+📧 Контакт: lilo.lilo565@gmail.com  
+<meta name="google-site-verification" content="relxtxYPOtcadsO-ddwq46ksDKlQi5Wchj-jma5zTX0" />
